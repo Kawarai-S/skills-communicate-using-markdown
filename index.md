@@ -4,3 +4,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] this is a task
+- [ ] tahat is a task
+- [ ] my cat is cute
